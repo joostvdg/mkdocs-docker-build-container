@@ -2,5 +2,5 @@
 FROM python:2.7-onbuild
 MAINTAINER Joost van der Griendt <joostvdg@gmail.com>
 LABEL authors="Joost van der Griendt <joostvdg@gmail.com>"
-LABEL version="1.2.0"
+LABEL version="2.0.0"
 LABEL description="Docker container for building sites with MKDocs"
